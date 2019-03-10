@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrainBrain</string>
+    <string-array name="signs">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
